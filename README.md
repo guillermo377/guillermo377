@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Love technology and everything related with that, nowadays specially interested on AI and Cybersecurity.
+🔭 I’m currently working on Learning Site project. Feel free to contact me if you feel that you would like to claborate with me.
+How to reach me: 📫guillermo377@gmail.com
 <!--
 **guillermo377/guillermo377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
